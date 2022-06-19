@@ -1,6 +1,6 @@
 # Academo App
 
-Link de acceso a la app [Academo](https://dm26-dev.github.io/academo).
+Link de acceso a la app [Academo](https://dm26-dev.github.io/academo-polygonus-pt).
 
 ## Se utilizaron las siguientes librerias
 

@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/academo-polygonus-pt/static/css/main.44cef2ef.chunk.css",
+    "main.js": "/academo-polygonus-pt/static/js/main.df9e0855.chunk.js",
+    "main.js.map": "/academo-polygonus-pt/static/js/main.df9e0855.chunk.js.map",
+    "runtime-main.js": "/academo-polygonus-pt/static/js/runtime-main.13709113.js",
+    "runtime-main.js.map": "/academo-polygonus-pt/static/js/runtime-main.13709113.js.map",
+    "static/css/2.d37cedef.chunk.css": "/academo-polygonus-pt/static/css/2.d37cedef.chunk.css",
+    "static/js/2.ac0c5dd7.chunk.js": "/academo-polygonus-pt/static/js/2.ac0c5dd7.chunk.js",
+    "static/js/2.ac0c5dd7.chunk.js.map": "/academo-polygonus-pt/static/js/2.ac0c5dd7.chunk.js.map",
+    "index.html": "/academo-polygonus-pt/index.html",
+    "static/css/2.d37cedef.chunk.css.map": "/academo-polygonus-pt/static/css/2.d37cedef.chunk.css.map",
+    "static/css/main.44cef2ef.chunk.css.map": "/academo-polygonus-pt/static/css/main.44cef2ef.chunk.css.map",
+    "static/js/2.ac0c5dd7.chunk.js.LICENSE.txt": "/academo-polygonus-pt/static/js/2.ac0c5dd7.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/academo-polygonus-pt/static/media/jakub-sisulak-unsplash.068e0b7f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13709113.js",
+    "static/css/2.d37cedef.chunk.css",
+    "static/js/2.ac0c5dd7.chunk.js",
+    "static/css/main.44cef2ef.chunk.css",
+    "static/js/main.df9e0855.chunk.js"
+  ]
+}

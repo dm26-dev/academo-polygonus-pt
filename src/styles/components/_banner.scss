@@ -1,0 +1,41 @@
+.banner {
+    width: 100%;
+    height: calc(100vh - 63px);
+    background-image: url(../../assets/jakub-sisulak-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.banner__card {
+    width: 500px;
+    z-index: 200;
+}
+
+.banner__title {
+    text-align: center;
+    color: #fff;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.banner__description {
+    text-align: center;
+    margin-top: 5px;
+    color: #fff;
+    font-size: 27px;
+}
+
+.banner-backdrop {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+}

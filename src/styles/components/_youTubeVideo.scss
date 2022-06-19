@@ -1,0 +1,48 @@
+.container-flex {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 80px;
+}
+
+.container-flex > div {
+    width: 45%;
+}
+
+.youtube-video {
+    height: 400px;
+    width: 100%;
+}
+
+.container-flex__title {
+    color: $dark-grey;
+}
+
+.container-flex__parrafo {
+    color: $light-grey;
+    padding-top: 30px;
+}
+
+.container-flex__descripcion > button {
+    margin-top: 30px;
+}
+
+@media screen and (max-width: 768px) {
+    
+    .container-flex {
+        align-items: center;
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: space-between;
+        padding: 20px 10px;
+    }
+
+    .container-flex > div {
+        width: 100%;      
+    }
+
+    .container-flex__video{
+        margin-top: 20px;
+    }
+   
+}

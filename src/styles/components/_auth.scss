@@ -1,0 +1,47 @@
+.container-login {
+    align-items: center;
+    //background-color: $primary;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px;
+    height: 100vh;
+    width: 100%;
+}
+
+.card-login {
+    height: 300px;
+    width: 300px;
+}
+
+.container-login__title {
+    color: darken($color: $primary, $amount: 20);
+    margin-bottom: 15px;
+}
+
+.card-login__label {
+    display: inline-block;
+    margin: 5px 0;
+    color: $dark-grey;
+}
+
+.card-login__input {
+    color: $dark-grey;
+    border: 0px;
+    border-bottom: 1px solid $light-grey;
+    font-size: 16px;
+    margin: 5px 0;
+    height: 20px;
+    width: 100%;
+
+    transition: border-bottom 0.3s ease;
+
+    &:focus {
+        border-bottom: 1px solid $primary;
+        outline: none;
+    }
+}
+
+.card-login > button {
+    margin-top: 20px;
+}

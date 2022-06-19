@@ -1,0 +1,29 @@
+.navbar-home {
+    /* background-color: blueviolet; */
+    padding: 20px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navBar-home__title {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 23px;
+}
+
+.navbar-home__user {
+    color: $dark-grey;
+    margin-right: 10px;
+}
+
+@media screen and (max-width: 768px) {
+    .navbar-home {
+        /* background-color: blueviolet; */
+        padding: 20px 10px;   
+        justify-content: flex-end;  
+    }
+
+    .navBar-home__title {
+        display: none;
+    }
+}
